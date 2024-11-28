@@ -1,0 +1,12 @@
+1, míchadlo elektrické ruèní, 3.628095333003638, 5.7655973390841275
+2, míchadlo elektrické ruèní, 9.47858950956773, 4.231127939583519
+3, míchadlo elektrické ruèní, 9.752028421209396, 10.946364214086648
+4, aku šroubovák, 8.348273825315102, 2
+5, aku šroubovák, 1.4054019103983608, 7
+6, bruska vibraèní, 9.478723197462601, 3.0559850753549167
+7, aku šroubovák, 10.617060892218536, 1
+8, aku šroubovák, 6.968777399297414, 6
+9, míchadlo elektrické ruèní, 8.018647237628498, 7.67185523500012
+11, aku šroubovák, 5.0, 10
+12, bruska vibraèní, 10.0, 5.0
+13, aku šroubovák, 25.0, 4
